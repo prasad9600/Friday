@@ -13,5 +13,7 @@ public class Main {
 
         newClass nw = new newClass();
         nw.count1(13);
+
+        System.out.println("changes to addingNew");
     }
 }
