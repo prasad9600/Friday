@@ -7,6 +7,6 @@ public class Main {
         }
         print.printText();
 
-        System.out.print("new commit");
+
     }
 }
