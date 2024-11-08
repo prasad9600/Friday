@@ -7,6 +7,8 @@ public class Main {
         }
         print.printText();
 
-
+        for(int i=11;i<=20;i++){
+            System.out.println("I am currently printing "+i);
+        }
     }
 }
