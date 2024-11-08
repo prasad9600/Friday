@@ -1,10 +1,12 @@
 public class newClass {
+    public void count1(int j){
 
-    int j=13;
-    int sum=0;
-    while(sum<1000){
-        sum+=j;
-        j++;
+        int sum=0;
+        while(sum<1000){
+            sum+=j;
+            j++;
+    }
+
     }
 
 }
