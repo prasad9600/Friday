@@ -6,5 +6,7 @@ public class Main {
             System.out.println("I am currently printing "+i);
         }
         print.printText();
+
+        System.out.print("new commit");
     }
 }
